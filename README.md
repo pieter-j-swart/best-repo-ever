@@ -1,4 +1,4 @@
 # best-repo-ever
 //NEW TEXT ADDED TO README
 
-//Here are some new text for branch 1
+//New text added for the seconds branch that was created
